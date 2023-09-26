@@ -12,7 +12,6 @@
 	
 ## <picture><img src = "https://github.com/nzehh/nzehh/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="https://github.com/nzehh/nzehh/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
 <br>
 
